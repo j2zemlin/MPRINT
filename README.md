@@ -1,1 +1,1 @@
-<a href="https://handle.test.datacite.org/10.5072/zenodo.408496"><img src="https://sandbox.zenodo.org/badge/1099575447.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.17728253"><img src="https://zenodo.org/badge/1099575447.svg" alt="DOI"></a>
